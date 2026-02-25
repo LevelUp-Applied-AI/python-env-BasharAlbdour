@@ -9,7 +9,7 @@
 
 
 def format_report(label, value):
-    return f"Score — {label} :  {value}"
+    return f"Score — {label} : {value}"
 
 
 if __name__ == "__main__":
